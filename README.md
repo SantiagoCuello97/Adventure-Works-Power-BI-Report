@@ -1,6 +1,6 @@
 # AdventureWorks Power BI Report
 
-A comprehensive business intelligence solution built in **Microsoft Power BI** for AdventureWorks, a global manufacturer specializing in cycling equipment and accessories.
+A comprehensive business intelligence solution built in **Microsoft Power BI** for AdventureWorks, a fictional global manufacturer specializing in cycling equipment and accessories.
 
 ## Data Source  
 The dataset used for this project is derived from Microsoft's [AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms), provided as part of the [Maven Analytics Power BI Desktop course](https://mavenanalytics.io/course/microsoft-power-bi-desktop).
