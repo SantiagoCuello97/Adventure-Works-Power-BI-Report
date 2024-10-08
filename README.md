@@ -10,13 +10,16 @@ The dataset used for this project is derived from Microsoft's AdventureWorks sam
 ## Overview of the Dataset
 - **Coverage Period:** Sales and return data from `01/01/2020` to `30/06/2022`.
 - **Geographical Scope:** AdventureWorks operates in six countries across three continents:
+
   - Australia
   - Canada
   - France
   - Germany
   - United Kingdom
   - United States
+
 - **Customer Profiles Include:**
+
   - Date of birth
   - Annual income
   - Education level
