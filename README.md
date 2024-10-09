@@ -50,6 +50,8 @@ This dashboard development involved several key tasks:
 - Includes page-level filters by product and category.
 - Offers drill-through functionality to view detailed product insights.
 
+  ![1](https://github.com/user-attachments/assets/c92e9092-5980-4aa3-8be0-3d00e6fd561f)
+
 ### Map View
 - Visualizes total order volume by country, enabling performance comparison across regions.
 
