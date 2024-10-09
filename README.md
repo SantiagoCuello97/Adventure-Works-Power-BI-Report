@@ -55,12 +55,18 @@ This dashboard development involved several key tasks:
 ### Map View
 - Visualizes total order volume by country, enabling performance comparison across regions.
 
+  ![2](https://github.com/user-attachments/assets/1def2eda-027c-4560-9ba6-a45eb6892dfd)
+
 ### Product Detail View
 - Provides per-product analysis of orders, revenue, and profit.
 - Includes a "what if" analysis to project profit changes through price adjustments.
 
+  ![3](https://github.com/user-attachments/assets/6db700c2-a44e-40ee-a350-bd24fba03940)
+
 ### Customer Analysis
 - Displays customer-level data, offering insights on total revenue and revenue per customer.
+
+  ![4](https://github.com/user-attachments/assets/768d7a62-17ac-47b6-be6c-bdc3aeb59e43)
 
 ---
 
